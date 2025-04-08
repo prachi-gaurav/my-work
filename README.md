@@ -10,3 +10,13 @@ All my work and contributions are listed here in one place.
 ## My implementations
 I have tried to implement some programs, data structures and algorithms and mathematical methods in Pharo.
 Head over to [pharo-projects](https://github.com/prachi-gaurav/pharo-projects)
+### Immplementations till now:
+1. Warshall Algorithm
+2. Stack data structure
+3. Queue data structure
+4. Bisection method
+5. Lagrange's Interpolation
+### Work in progress
+1. Newton Raphson method
+2. Bubble sorting
+3. Breadth First Search
